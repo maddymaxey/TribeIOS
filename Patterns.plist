@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Number</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>2</integer>
+		<integer>3</integer>
+		<integer>4</integer>
+		<integer>5</integer>
+	</array>
+	<key>Pattern</key>
+	<array>
+		<array>
+			<string>blackscreen.png</string>
+			<string>blackscreen.png</string>
+			<string>blackscreen.png</string>
+			<string>blackscreen.png</string>
+			<string>blackscreen.png</string>
+			<string>blackscreen.png</string>
+			<string>blackscreen.png</string>
+			<string>blackscreen.png</string>
+		</array>
+		<array>
+			<string>blackscreen.png</string>
+			<string>blackscreen.png</string>
+			<string>blackscreen.png</string>
+			<string>blackscreen.png</string>
+			<string>blackscreen.png</string>
+			<string>blackscreen.png</string>
+			<string>blackscreen.png</string>
+			<string>blackscreen.png</string>
+		</array>
+		<array>
+			<string>blackscreen.png</string>
+			<string>blackscreen.png</string>
+			<string>blackscreen.png</string>
+			<string>blackscreen.png</string>
+			<string>blackscreen.png</string>
+			<string>blackscreen.png</string>
+			<string>blackscreen.png</string>
+			<string>blackscreen.png</string>
+		</array>
+	</array>
+	<key>Image</key>
+	<array>
+		<string>illuminate.png</string>
+		<string>blink.png</string>
+		<string>Group.png</string>
+		<string>Every-Other.png</string>
+		<string>illuminate.png</string>
+		<string>Group.png</string>
+	</array>
+	<key>PatternName</key>
+	<array>
+		<string>Illuminate</string>
+		<string>Blink</string>
+		<string>Group</string>
+		<string>Every Other</string>
+		<string>Glow</string>
+		<string>On and Off</string>
+	</array>
+</dict>
+</plist>
